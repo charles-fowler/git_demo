@@ -3,3 +3,4 @@ Second change for second commit
 helloBranch
 newline
 newline
+newline
