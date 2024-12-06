@@ -1,3 +1,8 @@
+Merge base is the "newest" common ancestor of two branches							  C - D twig
+														/		---->
+A fastfwd merge is when the merge base of the two branches is the end point of one of the branches e.g.   A - B  main      			A - B - C - D main
+B is the merge base of main and twig and also the end point of main so if you write `git merge twig` on main then twig is auto deleted and merged with main 
+
 Display graph with commit msgs:	(USE THIS)
 	git log --oneline --graph --all
 
