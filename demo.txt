@@ -2,3 +2,4 @@ First change to stage
 Second change for second commit
 helloBranch
 newline
+newline
