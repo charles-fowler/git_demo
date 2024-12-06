@@ -1,0 +1,6 @@
+Display graph with commit msgs:	(USE THIS)
+	git log --oneline --graph --all
+
+display graph with point IDs:
+	git --no-pager log --oneline --decorate --graph --all
+	git log --all --decorate --oneline --graph --simplify-by-decoration
